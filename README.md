@@ -1,9 +1,11 @@
-#### Atualmente trabalho como analista de desenvolvimento Jr. na Levva :yellow_heart:.
+<h3> Hey there! </h3> 
 
-#### :books: Estou aprendendo mais sobre arquitetura de software e outras linguagens de programação como Go e Node, para aprimorar minhas habilidades de resolução de problemas e conhecimentos técnicos em algumas linguagens de programação.:rocket:.
+<p> Currently working as a software developer at Levva :yellow_heart: </p>
 
-#### :star: Tenho conhecimento nas langs: Javascript, Java e C#. 
 
-#### :grinning: Atualmente aprendendo Docker, redes e serviços de cloud (AWS e Azure).
+<p> I'm most interested in DevOps tools like terraform, docker, kubernetes, AWS and Github Actions </p>
 
-#### seja bem-vindo ao meu perfil!
+
+<p> My current main stack is C# and SQL databases like PostgreSQL, and Linux, of course 🐧</p>
+
+<img src="https://gifer.com/pt/3odR" align="center"> 
