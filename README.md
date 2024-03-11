@@ -8,4 +8,4 @@
 
 <p> My current main stack is C# and SQL databases like PostgreSQL, and Linux, of course 🐧</p>
 
-<img src="https://gifer.com/pt/3odR" align="center"> 
+<img src="https://m.media-amazon.com/images/M/MV5BMTQ3OTUzODI4OF5BMl5BanBnXkFtZTgwODU3NTIyMjE@._V1_QL75_UX500_CR0,47,500,281_.jpg" align="center" /> 
