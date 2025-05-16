@@ -1,6 +1,6 @@
 <h3> Hey there! </h3> 
 
-<p> Currently working as a software developer at Levva :yellow_heart: </p>
+<p> Currently working as a software developer at Grupo Recovery 💙🧡 </p>
 
 
 <p> I'm most interested in DevOps tools like terraform, docker, kubernetes, AWS and Github Actions </p>
